@@ -1,0 +1,3 @@
+from algoritmo import *
+if _name_ == '_main_':
+    main()
